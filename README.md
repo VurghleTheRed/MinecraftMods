@@ -14,7 +14,7 @@ If you ARE using any other launcher, simply create a new instance and include Ne
 
 **Install Mods:**
 If you are NOT using the Modrinth app or a launcher that supports Modrinth (like Prism):
-    Click on the DaPeepsModpack folder icon. From there, download the .zip file. Unzip the file. That should create a folder called mods. Leave that for now. Find your Neoforge installation you created earlier in the *Installations* tab in the Minecraft launcher. Hover over the right hand side and select the *Open Installations Folder* button. If you do not have a folder named mods here, create one. It must be lowercase. Then, simply drag and drop the mods from the mods folder you got from the .zip file into the mods folder for your Neoforge installation.
+    Click on the DaPeepsModpack folder icon. From there, download the .zip file. Unzip the file. That should create a folder called mods. Leave that for now. If you want Sort it Out, which adds a button to sort your inventory, download that file too. Find your Neoforge installation you created earlier in the *Installations* tab in the Minecraft launcher. Hover over the right hand side and select the *Open Installations Folder* button. If you do not have a folder named mods here, create one. It must be lowercase. Then, simply drag and drop the mods from the mods folder you got from the .zip file into the mods folder for your Neoforge installation.
 
 If you ARE using a launcher that supports Modrinth:
     Download the TheMods.mrpack file. You can use that to get the modpack directly, but I'm tired and don't want to look that up rn 🥱. If you want to use this option, we can work through it together, and I'll update this document with our findings.
@@ -22,6 +22,7 @@ If you ARE using a launcher that supports Modrinth:
 That should be it. You could run your Neoforge Installation to make sure everything is working correctly. If you run into any issues, I'm happy to help.
 
 **The Mods**
+**You must install all mods except Dynamic Lights and Sort it Out to connect**
 
 🗺️ Biomes O' Plenty: Adds 50+ new biomes to the game across all three dimensions. Some biomes add new resources to the game.
 
@@ -32,6 +33,8 @@ That should be it. You could run your Neoforge Installation to make sure everyth
 💡 Dynamic Lights: Makes any vanilla light source emit light, including held torches, flaming arrows, and flaming mods. Note: the light from this mod is only visual, and it does not prevent mobs spawning. Also, it does not impact items such as the alternate wood torches from Chipped.
 
 📗 JEI: Just Enough Items. Provides a list of all of the items in the game, vanilla and modded. You can click on one to see the various ways to craft it, or right click on one to see what recipies use it.
+
+🔁 Sort it Out: This mod will be installed on the server too, but if you download it it gives you a button to sort your inventory.
 
 📈 Sodium: A performance mod which greatly enhances Minecraft's performance on servers.
 
