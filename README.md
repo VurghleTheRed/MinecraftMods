@@ -20,3 +20,19 @@ If you ARE using a launcher that supports Modrinth:
     Download the TheMods.mrpack file. You can use that to get the modpack directly, but I'm tired and don't want to look that up rn 🥱. If you want to use this option, we can work through it together, and I'll update this document with our findings.
 
 That should be it. You could run your Neoforge Installation to make sure everything is working correctly. If you run into any issues, I'm happy to help.
+
+**The Mods**
+
+🗺️ Biomes O' Plenty: Adds 50+ new biomes to the game across all three dimensions. Some biomes add new resources to the game.
+
+⚙️ Create: Adds automation and industrialization to Minecraft. Harness the power of wind, water, and steam to create mechanical farms, trains, elevators, and much more!
+
+🧱 Chipped: Adds specialized tables which let you create more variants of many existing block types for decoration. Note: does not impact the new blocks from Biomes O' Plenty or Create.
+
+💡 Dynamic Lights: Makes any vanilla light source emit light, including held torches, flaming arrows, and flaming mods. Note: the light from this mod is only visual, and it does not prevent mobs spawning. Also, it does not impact items such as the alternate wood torches from Chipped.
+
+📗 JEI: Just Enough Items. Provides a list of all of the items in the game, vanilla and modded. You can click on one to see the various ways to craft it, or right click on one to see what recipies use it.
+
+📈 Sodium: A performance mod which greatly enhances Minecraft's performance on servers.
+
+📦 Everything else: Everything else are dependancy or compatability mods required to make the main mods function.
